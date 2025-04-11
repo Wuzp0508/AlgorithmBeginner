@@ -24,7 +24,6 @@ class Solution2843 {
 
 public class Daily2843 {
     public static void main(String[] args) {
-        Solution2843 solution = new Solution2843();
-        System.out.println(solution.countSymmetricIntegers(1, 10000));
+        System.out.println(new Solution2843().countSymmetricIntegers(1, 10000));
     }
 }
