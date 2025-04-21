@@ -1,5 +1,9 @@
 package DailyProblems;
 
+/**
+ * 2145. Count the Hidden Sequences
+ */
+
 class Solution2145 {
     public int numberOfArrays(int[] differences, int lower, int upper) {
         long min = 0, max = 0;

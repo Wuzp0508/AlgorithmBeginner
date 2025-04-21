@@ -3,6 +3,10 @@ package DailyProblems;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 781. Rabbits in Forest
+ */
+
 class Solution781 {
     public int numRabbits(int[] answers) {
         Map<Integer, Integer> cnt = new HashMap<>();
